@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1042577701620",
+    "firebase_url": "https://video-meeting-b4024.firebaseio.com",
+    "project_id": "video-meeting-b4024",
+    "storage_bucket": "video-meeting-b4024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042577701620:android:953d4adf6bcfa37191bca1",
+        "android_client_info": {
+          "package_name": "com.example.videomeeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042577701620-1cbr0nnhquejl6rj49ehouhsp3mc3cu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWkNxQqX_cV8TA1xtLWttdpcZZVe9VIr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042577701620-1cbr0nnhquejl6rj49ehouhsp3mc3cu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

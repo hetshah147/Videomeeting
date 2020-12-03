@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0278ae</color>
+    <color name="colorPrimaryDark">#51adcf</color>
+    <color name="colorAccent">#de4463</color>
+    <color name="colorPrimaryText">#30475e</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorTextIcons">#FBFBFB</color>
+    <color name="colorBackground">#e8e8e8</color>
+    <color name="colorHintText">#BDBDBD</color>
+    <color name="colorMeetingInvitationStart">#CF144A</color>
+    <color name="colorMeetingInvitationEnd">#1A70AA</color>
+</resources>
